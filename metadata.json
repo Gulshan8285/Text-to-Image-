@@ -1,0 +1,5 @@
+{
+  "name": "InstaArt – Free Ai Image Generate",
+  "description": "An AI-powered Image Generator App that allows users to type any text prompt and instantly generates 1–4 realistic or artistic images based on that description. Users can choose from different image styles and aspect ratios.",
+  "requestFramePermissions": []
+}
